@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthik-giliyar
 - 👀 I’m interested in Web Development and Python Programming
-- 🌱 I’m currently learning Google Data Analytics Professional Course
+- 🌱 I’m currently learning MERN Stack Development from Let's Upgrade 
 
 <!---
 karthik-giliyar/karthik-giliyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
