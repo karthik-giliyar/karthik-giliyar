@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthik-giliyar
-- 👀 I’m interested in Web Development, Python Programming and Data Analysis
+- 👀 I’m interested in Web Development and Python Programming
 - 🌱 I’m currently learning Google Data Analytics Professional Course
 
 <!---
